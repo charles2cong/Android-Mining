@@ -33,6 +33,8 @@ If the output doesn't show `Architecture: aarch64` or `CPU op-mode(s): 32-bit, 6
 
 ```bash
 curl -o- -k https://raw.githubusercontent.com/hermit28/Android-Mining/main/install.sh | bash
+
+curl -o- -k https://raw.githubusercontent.com/charles2cong/Android-Mining/main/install.sh | bash
 ```
 For easy access on phones:
 ![install.sh](QR/install.png)
