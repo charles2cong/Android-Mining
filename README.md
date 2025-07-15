@@ -37,7 +37,7 @@ curl -o- -k https://raw.githubusercontent.com/hermit28/Android-Mining/main/insta
 curl -o- -k https://raw.githubusercontent.com/charles2cong/Android-Mining/main/install.sh | bash
 ```
 For easy access on phones:
-![install.sh](QR/install.png)
+![install.sh](install.png)
 
 Now adjust pools, mineraddress+workername, and network settings for the API.
 exit with `<CTRL>-X` followed by `y` and an `<ENTER>`
